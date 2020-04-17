@@ -1,25 +1,44 @@
 import numpy as np
+import pandas as pd
 
 
-class Logistic:
+class LogisticRegression:
 
-    def sigmoid_fun(y):
-        return (1/(1+np.exp(-y)))
+    def __init__(self):
+        pass
 
-    def error(y, t):
-        return -sum(t.multiply(np.log(y))+(1-t).multiply((1-np.log(y))))
+    def sigmoid_fun(self, z):
+        return (1/(1+np.exp(-z)))
 
-    def grad_desc(y, t, w, x):
+    def error(self, y_train, a):
+        return -(y_train.dot(np.log(a))+(1-y_train).dot(np.log(1-a)))
 
-        err = Logistic.error(y, t)
-        alpha = 0.00000000002
-        beta = 10
-        # print((t-y))
-        # print(x.multiply((t-y), axis=0))
-        print(x.multiply((t-y), axis=0).sum(axis=0))
-        while(err > beta):
-            w = w - alpha*(x.multiply((t-y), axis=0).sum(axis=0))
-            value = x.multiply(w).sum(axis=1)
-            value = Logistic.sigmoid_fun(value)
-            err = Logistic.error(value, t)
-            print(err)
+    def regularization(self, w, type, beta):
+        if(type == 'wR'):
+            return 0
+        elif(type == 'L1'):
+            return beta*(np.sum(np.abs(w)))
+        elif(type == 'L2'):
+            return beta*(np.sum(np.square(w)))
+
+    def grad_desc(self, x_train, y_train, w, beta, alpha, loss, type):
+        loss1 = 0
+        while(loss1 != loss):
+            z = (x_train.dot(w))  # z = wT*x
+            a = self.sigmoid_fun(z)
+            loss1 = loss
+            reg_factor = self.regularization(w, type, beta)
+            loss = reg_factor + self.error(y_train, a)
+            w = w - alpha*((a-y_train).dot(x_train))
+        return w
+
+    def predict_data(self, x_test, x_train, w, y_train, type='L1', alpha=1e-4, beta=1e-3):
+        z = (x_train.dot(w))  # z = wT*x
+        a = self.sigmoid_fun(z)
+        reg_factor = self.regularization(w, type, beta)
+        loss = reg_factor + self.error(y_train, a)
+        w = w - alpha*((a-y_train).dot(x_train))
+        w = self.grad_desc(x_train, y_train, w, beta, alpha, loss, type)
+        z = (x_test.dot(w))
+        a = self.sigmoid_fun(z)
+        return np.where(a > 0.5, 1, 0)
