@@ -1,0 +1,1001 @@
+,data,value
+0,"['way', 'plug', 'us', 'unless', 'go', 'converter']",0
+1,"['good', 'case', 'excellent', 'value']",1
+2,"['great', 'jawbone']",1
+3,"['tied', 'charger', 'conversations', 'lasting', 'minutesmajor', 'problems']",0
+4,"['mic', 'great']",1
+5,"['jiggle', 'plug', 'get', 'line', 'right', 'get', 'decent', 'volume']",0
+6,"['several', 'dozen', 'several', 'hundred', 'contacts', 'imagine', 'fun', 'sending', 'one', 'one']",0
+7,"['razr', 'owneryou', 'must']",1
+8,"['needless', 'say', 'wasted', 'money']",0
+9,"['waste', 'money', 'time']",0
+10,"['sound', 'quality', 'great']",1
+11,"['impressed', 'going', 'original', 'battery', 'extended', 'battery']",1
+12,"['two', 'seperated', 'mere', 'ft', 'started', 'notice', 'excessive', 'static', 'garbled', 'sound', 'headset']",0
+13,"['good', 'quality', 'though']",1
+14,"['design', 'odd', 'ear', 'clip', 'comfortable']",0
+15,"['highly', 'recommend', 'one', 'blue', 'tooth', 'phone']",1
+16,"['advise', 'everyone', 'fooled']",0
+17,"['far', 'good']",1
+18,"['works', 'great']",1
+19,"['clicks', 'place', 'way', 'makes', 'wonder', 'long', 'mechanism', 'would', 'last']",0
+20,"['went', 'motorolas', 'website', 'followed', 'directions', 'could', 'get', 'pair']",0
+21,"['bought', 'use', 'kindle', 'fire', 'absolutely', 'loved']",1
+22,"['commercials', 'misleading']",0
+23,"['yet', 'run', 'new', 'battery', 'two', 'bars', 'thats', 'three', 'days', 'without', 'charging']",1
+24,"['bought', 'mother', 'problem', 'battery']",0
+25,"['great', 'pocket', 'pc', 'phone', 'combination']",1
+26,"['owned', 'phone', 'months', 'say', 'best', 'mobile', 'phone']",1
+27,"['didnt', 'think', 'instructions', 'provided', 'helpful']",0
+28,"['people', 'couldnt', 'hear', 'talk', 'pull', 'earphone', 'talk', 'phone']",0
+29,"['doesnt', 'hold', 'charge']",0
+30,"['simple', 'little', 'phone', 'use', 'breakage', 'unacceptible']",0
+31,"['product', 'ideal', 'people', 'like', 'whose', 'ears', 'sensitive']",1
+32,"['unusable', 'moving', 'car', 'freeway', 'speed']",0
+33,"['two', 'years', 'left', 'contract', 'hate', 'phone']",0
+34,"['car', 'charger', 'well', 'ac', 'charger', 'included', 'make', 'sure', 'never', 'run', 'juicehighy', 'recommended']",1
+35,"['need', 'least', 'mins', 'get', 'phone', 'book', 'time', 'first', 'turn', 'phonebattery', 'life', 'short']",0
+36,"['kept', 'well']",1
+37,"['poor', 'talk', 'time', 'performance']",0
+38,"['case', 'great', 'works', 'fine']",1
+39,"['worthless', 'product']",0
+40,"['great', 'camera', 'thats', 'mp', 'pics', 'nice', 'clear', 'great', 'picture', 'quality']",1
+41,"['impressed', 'product']",0
+42,"['nice', 'headset', 'priced', 'right']",1
+43,"['hear', 'garbage', 'audio']",0
+44,"['excellent', 'bluetooth', 'headset']",1
+45,"['features', 'want']",1
+46,"['right', 'mind', 'gonna', 'buy', 'battery']",0
+47,"['arguing', 'verizon', 'regarding', 'dropped', 'calls', 'returned', 'phones', 'two', 'days']",0
+48,"['case', 'seems', 'well', 'made']",1
+49,"['disappointed', 'battery']",0
+50,"['loud', 'enough', 'doesnt', 'turn', 'like']",0
+51,"['good', 'protection', 'make', 'phone', 'bulky']",1
+52,"['usable', 'keyboard', 'actually', 'turns', 'pda', 'realworld', 'useful', 'machine', 'instead', 'neat', 'gadget']",1
+53,"['phone', 'pretty', 'sturdy', 'never', 'large', 'problems']",1
+54,"['love', 'thing']",1
+55,"['everything', 'fine', 'reasonable', 'price', 'ie']",1
+56,['disappointed'],0
+57,"['even', 'dropped', 'phone', 'stream', 'submerged', 'seconds', 'still', 'works', 'great']",1
+58,"['happy', 'complaints', 'one', 'regarding', 'sound', 'quality', 'end']",1
+59,"['buttons', 'bad']",0
+60,"['essentially', 'forget', 'microsofts', 'tech', 'support']",0
+61,"['really', 'recommend', 'faceplates', 'since', 'looks', 'nice', 'elegant', 'cool']",1
+62,"['headphones', 'great', 'find', 'think', 'perhaps', 'best', 'purchase', 'made', 'last', 'several', 'years', 'seriously']",1
+63,"['buy', 'different', 'phone']",0
+64,"['hold', 'phone', 'particular', 'angle', 'party', 'hear', 'clearly']",0
+65,"['one', 'big', 'drawback', 'mp', 'player', 'buttons', 'phones', 'front', 'cover', 'let', 'pause', 'skip', 'songs', 'lock', 'seconds']",0
+66,"['week', 'later', 'activated', 'suddenly', 'died']",0
+67,"['feels', 'comfortable', 'headsets', 'wear', 'glasses', 'gets', 'way', 'sometimes']",1
+68,"['great', 'ipods']",1
+69,"['device', 'great', 'several', 'situations']",1
+70,"['mic', 'doesnt', 'work']",0
+71,"['even', 'bmw', 'series', 'fairly', 'quiet', 'trouble', 'hearing', 'person', 'saying']",0
+72,"['great', 'choice']",1
+73,"['nice', 'docking', 'station', 'home', 'work']",1
+74,"['beautiful', 'phone']",1
+75,"['love', 'product']",1
+76,"['buy', 'dwrongly', 'advertised']",0
+77,"['great', 'little', 'item']",1
+78,"['love', 'phone', 'handy', 'lot', 'features']",1
+79,"['purchased', 'within', 'days', 'longer', 'working']",0
+80,"['wear', 'everyday', 'holds', 'well']",1
+81,"['good', 'bargain']",0
+82,"['well', 'packaged', 'arrived', 'time', 'works', 'intended']",1
+83,"['battery', 'runs', 'quickly']",0
+84,"['item', 'worked', 'great', 'broke', 'months', 'use']",0
+85,"['headsets', 'easy', 'use', 'everyone', 'loves']",1
+86,"['phone', 'works', 'great']",1
+87,"['construction', 'headsets', 'poor']",0
+88,"['product', 'excellent', 'works', 'better', 'verizon', 'one', 'boy', 'cheaper']",1
+89,"['phone', 'loads', 'super']",1
+90,"['product', 'costs', 'much', 'one', 'expect', 'work', 'far', 'better', 'greater', 'ease', 'thing']",0
+91,"['made', 'sturdy']",1
+92,"['worked', 'great']",1
+93,"['ear', 'buds', 'play', 'music', 'one', 'ear']",0
+94,"['dont', 'waste', 'money']",0
+95,['order'],1
+96,"['plan', 'use', 'car', 'forget']",0
+97,"['found', 'product', 'waaay', 'big']",0
+98,"['best', 'found', 'far', 'tried', 'bluetooths', 'one', 'best', 'quality', 'listener', 'well', 'ease', 'using']",1
+99,"['disappointed', 'decision']",0
+100,"['integrated', 'seamlessly', 'motorola', 'razr', 'phone']",1
+101,"['buyer', 'beware', 'could', 'flush', 'money', 'right', 'toilet']",0
+102,"['definitely', 'bargain']",1
+103,"['price', 'good', 'free', 'shipping', 'good', 'purchase']",1
+104,"['received', 'supposedly', 'new', 'motorola', 'apparently', 'match', 'phone', 'charger']",0
+105,"['prosgood', 'camera', 'nice', 'pictures', 'also', 'cool', 'styles', 'like', 'black', 'white']",1
+106,"['thats', 'huge', 'design', 'flaw', 'unless', 'using', 'correctly', 'dont', 'think', 'case']",0
+107,"['love', 'headset', 'jabra', 'bluetooth', 'headset', 'great', 'reception', 'good', 'ear', 'piece', 'comfortable', 'fit']",1
+108,"['camera', 'although', 'rated', 'impressive', 'megapixels', 'renders', 'images', 'fall', 'well', 'expectations', 'relatively', 'high', 'resolution']",0
+109,"['purcashed', 'car', 'charger', 'work']",0
+110,"['sound', 'quality', 'end', 'excellent', 'use', 'headset', 'call', 'wife', 'ask', 'wife', 'use', 'headset', 'call']",1
+111,"['phone', 'slim', 'light', 'display', 'beautiful']",1
+112,"['little', 'geeky', 'think', 'thats', 'sex', 'toast', 'rocks', 'oozes', 'sex', 'right', 'battery', 'embedded', 'sleek', 'stylish', 'leather', 'case']",1
+113,"['great', 'product', 'fast', 'shipping']",1
+114,"['absolutely', 'great']",1
+115,"['keyboard', 'nice', 'compromise', 'full', 'qwerty', 'basic', 'cell', 'phone', 'number', 'keypad']",1
+116,"['got', 'phone', 'around', 'end', 'may', 'completely', 'unhappy']",0
+117,"['comfortable', 'ear']",1
+118,"['winner', 'us']",1
+119,"['setup', 'couldnt', 'simpler']",1
+120,"['tried', 'several', 'different', 'earpieces', 'cell', 'phone', 'jabra', 'one', 'first', 'one', 'found', 'fits', 'ear', 'comfortably']",1
+121,"['could', 'get', 'strong', 'enough', 'signal']",0
+122,"['pleased', 'purchase']",1
+123,"['bad', 'quality']",0
+124,"['gets', 'job', 'done']",1
+125,"['great', 'audio']",1
+126,"['basically', 'service', 'bad']",0
+127,"['work', 'cell', 'phone', 'plug', 'set', 'charger']",0
+128,"['bluetooth', 'weeks', 'really', 'like']",1
+129,"['bt', 'headset', 'disapoinment']",0
+130,"['small', 'dont', 'even', 'realize', 'getting', 'used']",1
+131,"['accompanied', 'software', 'almost', 'brilliant']",1
+132,"['headset', 'works', 'great', 'packaged', 'nicely', 'avoid', 'damage']",1
+133,"['definitly', 'recommend']",1
+134,"['buyerbe', 'careful']",0
+135,"['majority', 'logitech', 'earbud', 'headsets', 'failed']",0
+136,"['good', 'stuff', 'price']",1
+137,"['headset', 'works', 'peachykeen']",1
+138,"['house', 'getting', 'dropped', 'coverage', 'upstairs', 'coverage', 'basement']",0
+139,"['voice', 'recognition', 'tremendous']",1
+140,['waste'],0
+141,"['several', 'different', 'minute', 'calls', 'experienced', 'drops', 'area', 'bars']",0
+142,"['happy', 'item']",0
+143,['disappointed'],0
+144,"['phone', 'takes', 'forever', 'charge', 'like', 'hours', 'literally']",0
+145,"['got', 'phone', 'reccomendation', 'relative', 'glad']",1
+146,"['waste', 'time']",0
+147,"['reception', 'poor']",0
+148,"['items', 'stated', 'included', 'description', 'included']",0
+149,"['months', 'screen', 'went', 'black', 'sudden']",0
+150,['hoping'],0
+151,"['audio', 'quality', 'poor', 'poor']",0
+152,"['absolutely', 'problem', 'headset', 'linking', 'blackberry', 'curve']",1
+153,"['know', 'sounds', 'funny', 'seemed', 'like', 'sketchy', 'technology', 'wouldnt', 'work', 'wellwell', 'one', 'works', 'great']",1
+154,"['bought', 'wired', 'headphones', 'sound', 'better']",0
+155,"['phone', 'fast', 'sending', 'kind', 'messages', 'web', 'browsing', 'significantly', 'faster', 'previous', 'phones', 'used']",1
+156,"['nice', 'quality', 'build', 'unlike', 'cheap']",1
+157,"['item', 'fantastic', 'works', 'perfectly']",1
+158,"['love', 'colors']",1
+159,"['wi', 'superb']",1
+160,"['whine', 'internet', 'goesthe', 'use', 'thing', 'less', 'like']",0
+161,"['great', 'charger']",1
+162,"['essentially', 'communications', 'tool', 'communicate']",0
+163,"['works', 'like', 'charm', 'work', 'one', 'got', 'phone']",1
+164,"['still', 'maintain', 'monkeys', 'shouldnt', 'make', 'headphones', 'obviously', 'dont', 'share', 'enough', 'dna', 'copy', 'design', 'humans']",0
+165,"['great', 'value']",1
+166,"['doesnt', 'work', 'bougth', 'lc', 'working']",0
+167,"['look', 'sharp', 'screen', 'nice', 'clear', 'great', 'graphics']",1
+168,"['doesnt', 'last', 'long']",0
+169,"['one', 'thing', 'hate', 'mode', 'set', 'button', 'side']",0
+170,"['excellent', 'service']",1
+171,"['thank', 'wasting', 'money']",0
+172,"['bethe', 'audio', 'quality', 'poor']",0
+173,"['igo', 'chargers', 'tips', 'really', 'great']",1
+174,"['file', 'browser', 'offers', 'options', 'one', 'needshandsfree', 'great']",1
+175,"['superb', 'phone', 'great', 'network']",1
+176,"['connected', 'wifes', 'bluetoothmotorola', 'hs', 'phone', 'worked', 'like', 'charm', 'whether', 'phone', 'pocket', 'case']",1
+177,"['put', 'latest', 'os', 'vg', 'likes', 'slow', 'crawl', 'lock', 'every']",0
+178,"['recognizes', 'phone', 'storage', 'device']",0
+179,"['like', 'loud', 'buzzing', 'override', 'conversations', 'phone']",0
+180,"['dont', 'buy', 'product']",0
+181,"['bluetoooth', 'headset', 'time', 'still', 'comfortable', 'way', 'fits', 'ear']",0
+182,"['sound', 'quality', 'good', 'functionality', 'awesome']",1
+183,"['phone', 'thorn', 'side', 'really', 'abhor']",0
+184,"['recently', 'problems', 'could', 'stay', 'connected', 'minutes', 'disconnected']",0
+185,['incredible'],1
+186,"['design', 'flaw']",0
+187,"['great', 'phone']",1
+188,"['waste', 'bucks']",0
+189,"['check', 'voice', 'mail', 'night', 'keypad', 'backlight', 'turns', 'seconds', 'first', 'message', 'lost']",0
+190,"['replacement', 'died', 'weeks']",0
+191,"['ring', 'toneoverall', 'good', 'phone', 'buy']",1
+192,"['lately', 'extremely', 'nice', 'helpful', 'phone']",1
+193,"['problems', 'wit', 'hit', 'dropping', 'signal']",0
+194,['impressed'],0
+195,"['light', 'weight', 'hardly', 'notice']",1
+196,"['youll', 'love', 'thin']",1
+197,"['bad', 'choice']",0
+198,"['pleather', 'case', 'doesnt', 'fit']",0
+199,"['useless', 'phone', 'simply', 'deaf']",0
+200,"['color', 'even', 'prettier', 'thought', 'would', 'graphics', 'incredibly', 'sharp']",1
+201,"['think', 'good', 'investment']",1
+202,"['makes', 'strange', 'ticking', 'noises', 'ends', 'call']",0
+203,"['best', 'electronics', 'available', 'fm', 'transmitters']",1
+204,"['battery', 'lasts', 'hours']",0
+205,"['great', 'headset', 'impressed']",1
+206,"['mega', 'pixel', 'camera', 'part', 'phone', 'reasonably', 'good']",1
+207,"['nearly', 'years', 'worked', 'great']",1
+208,"['good', 'transmit', 'audio']",1
+209,"['sending', 'back']",0
+210,"['bother', 'contacting', 'company', 'dollar', 'product', 'learned', 'lesson', 'bought', 'form', 'online', 'anyway']",0
+211,"['hate', 'earbugs', 'avoid', 'phone', 'means']",0
+212,"['great', 'price', 'also']",1
+213,"['range', 'decent', 'able', 'roam', 'around', 'house', 'phone', 'living', 'room', 'receptionsound', 'quality', 'issues']",1
+214,"['fast', 'service']",1
+215,"['would', 'highly', 'recommend']",1
+216,"['would', 'recommend']",1
+217,"['also', 'didnt', 'like', 'button', 'felt', 'like', 'would', 'crack', 'use']",0
+218,"['worst', 'phone', 'ever']",0
+219,"['still', 'infatuated', 'phone']",1
+220,"['freezes', 'frequently']",0
+221,"['kind', 'embarrassing', 'use', 'looks', 'mostly', 'embarrassing', 'childlike', 'company']",0
+222,"['simple', 'lightweight', 'great', 'fit']",1
+223,"['id', 'expected', 'better', 'consumer', 'experience', 'motorola']",0
+224,"['theres', 'horrible', 'tick', 'sound', 'background', 'calls', 'never', 'experienced']",0
+225,"['certainly', 'comfortable', 'functionality', 'decent']",1
+226,"['usually', 'dont', 'like', 'headbands', 'one', 'lightweight', 'doesnt', 'mess', 'hair']",1
+227,"['bit', 'disappointed']",0
+228,"['phone', 'year', 'tell', 'great']",0
+229,"['ordered', 'sony', 'ericsson', 'wi', 'think', 'worked', 'thats', 'first', 'used']",0
+230,"['battery', 'completely', 'useless']",0
+231,"['big', 'waste', 'time']",0
+232,"['dont', 'waste', 'one']",0
+233,"['great', 'sound', 'service']",1
+234,"['really', 'pleased', 'product', 'far']",1
+235,"['one', 'favorite', 'purchases', 'ever']",1
+236,"['best', 'bluetooth', 'market']",1
+237,"['authentic', 'leather', 'nice', 'shine', 'comfort', 'recommend', 'case']",1
+238,"['excited', 'get', 'headset', 'thought', 'really', 'cute']",1
+239,"['make', 'mistake']",0
+240,"['big', 'disappointment', 'calendar', 'sync']",0
+241,"['phone', 'unusable', 'new']",0
+242,"['worst', 'customer', 'service', 'ever']",0
+243,"['additional', 'ear', 'gels', 'provided', 'instructions', 'whatsoever']",0
+244,"['defeats', 'purpose', 'bluetooth', 'headset']",0
+245,"['worth', 'every', 'penny']",1
+246,"['excellent', 'wallet', 'type', 'phone', 'case']",1
+247,"['nice', 'headphones', 'price', 'work', 'great']",1
+248,"['internet', 'excrutiatingly', 'slow']",0
+249,"['comfortable', 'wear', 'well', 'probably', 'important', 'aspect', 'using', 'case']",1
+250,"['fits', 'like', 'glove', 'strong', 'secure', 'durable']",1
+251,"['gosh', 'best', 'phone', 'ever']",1
+252,"['attractive', 'appears', 'good', 'quality']",1
+253,"['love', 'features', 'form', 'factor']",1
+254,"['product', 'strong', 'rubberpetroleum', 'smell', 'unbearable', 'caused', 'return']",0
+255,"['poor', 'quality', 'service']",0
+256,"['cable', 'looks', 'thin', 'flimsy', 'scary']",0
+257,"['great', 'earpiece']",1
+258,"['excellent', 'hands', 'free', 'tool']",1
+259,"['great', 'using', 'home', 'stereo']",1
+260,"['good', 'product', 'incredible', 'value']",1
+261,"['month', 'worked', 'flawlessly', 'far']",1
+262,"['works', 'great']",1
+263,"['absolutel', 'junk']",0
+264,"['one', 'didnt', 'work', 'either']",0
+265,"['battery', 'life', 'real', 'good']",1
+266,"['returned', 'hours', 'later']",0
+267,"['great', 'item']",1
+268,"['dont', 'waste', 'money']",0
+269,"['love', 'headset']",1
+270,"['drain', 'player', 'may', 'also', 'potentially', 'fry']",0
+271,"['worked', 'perfectly']",1
+272,"['unreliable', 'giving']",0
+273,"['gave', 'stars', 'sound', 'quality']",1
+274,"['avoid', 'one']",0
+275,"['reversible', 'plug', 'works', 'great']",1
+276,"['wasted', 'little', 'money', 'earpiece']",0
+277,"['good', 'phone']",1
+278,"['best', 'rotating', 'feature', 'helpful']",1
+279,"['comfort', 'whole', 'family']",1
+280,"['good', 'product', 'good', 'seller']",1
+281,"['love', 'bluetooth']",1
+282,"['first', 'doesnt', 'wear', 'well']",0
+283,"['impressed', 'headset', 'plantronics']",1
+284,"['got', 'small', 'adorable']",1
+285,"['great', 'phone']",1
+286,"['wouldnt', 'recommend', 'buying', 'product']",0
+287,"['piece', 'junk']",0
+288,"['poorly', 'contstruct', 'hinge']",0
+289,"['item', 'great', 'installed', 'let', 'charged', 'overnite', 'working', 'good', 'every', 'since', 'problems']",1
+290,"['great', 'phone']",1
+291,"['dont', 'buy']",0
+292,"['excellent', 'phone']",1
+293,"['purchase', 'phone']",0
+294,"['voice', 'recognition', 'thru', 'handset', 'excellent']",1
+295,"['hands', 'best', 'phone', 'ever']",1
+296,"['works', 'great', 'cat', 'attacked', 'phone', 'scratched', 'protective', 'strip', 'instead', 'destroying', 'screen']",1
+297,"['one', 'works', 'priced', 'right']",1
+298,"['customer', 'service', 'terrible']",0
+299,"['battery', 'life', 'still', 'long', 'enough', 'motorola', 'razor', 'vi']",0
+300,"['sending', 'back']",0
+301,"['know', 'made', 'wise', 'decision']",1
+302,"['someone', 'shouldve', 'invented', 'sooner']",1
+303,"['good', 'price']",1
+304,"['everything', 'worked', 'first', 'trythe', 'device', 'certainly', 'engineered', 'clever', 'way', 'construction', 'feels', 'good']",1
+305,"['received', 'quickly', 'works', 'great']",1
+306,"['working', 'great']",1
+307,"['many', 'people', 'complained', 'found', 'headsets', 'microphone', 'weak']",0
+308,"['year', 'old', 'nokia', 'tracfone', 'holds', 'charge', 'lot', 'better']",0
+309,"['care', 'consumer', 'one', 'bit']",0
+310,"['good', 'battery', 'got', 'really', 'fast']",1
+311,"['instruction', 'manual', 'lacking']",0
+312,"['also', 'slim', 'enough', 'fit', 'alarm', 'clock', 'docking', 'station', 'without', 'removing', 'case']",1
+313,"['phone', 'holds', 'charge', 'like', 'new']",1
+314,"['battery', 'unreliable', 'well', 'service', 'use', 'antena']",0
+315,"['uncomfortable', 'sound', 'quality', 'quite', 'poor', 'compared', 'phone', 'razr', 'previous', 'wired', 'headset', 'plugged', 'lg']",0
+316,"['gotten', 'lot', 'compliments']",1
+317,"['definitely', 'must', 'state', 'allow', 'cell', 'phone', 'usage', 'driving']",1
+318,"['want', 'money', 'back']",0
+319,"['love', 'device']",1
+320,"['also', 'happy', 'price']",1
+321,"['ordered', 'product', 'first', 'unhappy', 'immediately']",0
+322,"['ngage', 'still', 'lacking', 'earbuds']",0
+323,"['able', 'voice', 'dialing', 'car', 'problem']",1
+324,"['bars', 'cell', 'phone', 'home', 'cant', 'hear', 'anything']",0
+325,"['good', 'item', 'low', 'price']",1
+326,"['howeverthe', 'riingtones', 'best', 'neither', 'games']",0
+327,"['plug', 'work', 'well']",0
+328,"['amazon', 'sucks']",0
+329,"['rip', 'charge', 'shipping']",0
+330,['comfortable'],1
+331,"['battery', 'working', 'well', 'replacement', 'original', 'came', 'phone', 'years', 'ago']",1
+332,"['reception', 'excellent']",1
+333,"['fits', 'comfortably', 'either', 'ear', 'sound', 'clear', 'loud', 'charge', 'lasts', 'couple', 'days']",1
+334,"['clear', 'quality', 'sound', 'dont', 'mess', 'sound', 'ipod', 'since', 'sound', 'buttons', 'headset']",1
+335,"['long', 'lasting', 'battery', 'dont', 'recharge', 'frequentyly', 'flip', 'phones']",0
+336,"['obviously', 'problem', 'adhesive']",0
+337,['disappointing'],0
+338,"['inexpensive', 'piece', 'would', 'still', 'expected', 'better', 'quality']",0
+339,"['practically', 'useless', 'add', 'kind', 'boost', 'reception', 'bought']",0
+340,"['excellent', 'sound', 'quality']",1
+341,['happy'],0
+342,"['piece', 'junk', 'broke', 'phone', 'days']",0
+343,"['new', 'battery', 'works', 'great', 'phone']",1
+344,"['worst', 'customer', 'service']",0
+345,"['dropped', 'phone', 'times', 'say', 'even', 'concrete', 'phone', 'still', 'great', 'knock', 'wood']",1
+346,"['reception', 'terrible', 'full', 'static']",0
+347,"['good', 'audio', 'quality']",1
+348,"['little', 'device', 'transformed', 'organizational', 'capability', 'made', 'life', 'whole', 'lot', 'easier']",1
+349,"['sitting', 'vehicle', 'cradle', 'belt', 'headset', 'lost', 'signal']",0
+350,"['jerks', 'phone']",0
+351,"['works', 'like', 'charm', 'works', 'advertised']",1
+352,"['comfortable', 'nice', 'range', 'good', 'battery', 'life']",1
+353,"['network', 'coverage', 'los', 'angeles', 'horrible']",0
+354,"['excellent', 'starter', 'wireless', 'headset']",0
+355,"['loudspeaker', 'option', 'great', 'bumpers', 'lights', 'appealing']",0
+356,"['thing', 'think', 'could', 'improve', 'sound', 'leaks', 'headset']",0
+357,"['first', 'reception', 'sucks', 'never', 'bars', 'ever']",0
+358,"['phone', 'gets', 'extremely', 'hot']",0
+359,"['microphone', 'also', 'works', 'well', 'according', 'people', 'called', 'applifies', 'everything']",1
+360,"['nice', 'design', 'quality']",1
+361,"['also', 'phone', 'dropped', 'case', 'going', 'save', 'specially', 'dropped', 'face']",0
+362,"['light', 'easy', 'use', 'clear', 'reception', 'transmission']",1
+363,"['bad', 'fit', 'way', 'big']",0
+364,"['definitely', 'good']",1
+365,"['awesome', 'device']",1
+366,"['waste', 'money']",0
+367,"['ordered', 'motorola', 'data', 'cable', 'got', 'well', 'finished', 'working', 'product']",1
+368,"['love', 'phone']",1
+369,"['looking', 'headset', 'long', 'time', 'got', 'couldnt', 'happier']",1
+370,"['ill', 'drivng', 'along', 'headset', 'starts', 'ringing', 'reason']",0
+371,"['display', 'excellent', 'camera', 'good', 'year']",1
+372,"['battery', 'life', 'also', 'great']",1
+373,"['worst', 'phone', 'ever', 'months']",0
+374,"['good', 'item', 'worked', 'started', 'problems', 'auto', 'reverse', 'tape', 'player']",0
+375,"['embarassing', 'also', 'ears', 'hurt', 'try', 'push', 'ear', 'plug', 'ear']",0
+376,"['protects', 'phone', 'sides']",1
+377,"['average', 'phone', 'bad', 'battery', 'life', 'operates', 'weak', 'network']",0
+378,"['clear', 'skype', 'calls', 'long', 'battery', 'life', 'long', 'range']",1
+379,"['soyo', 'technology', 'sucks']",0
+380,"['great', 'hands', 'free', 'device']",1
+381,"['even', 'take', 'self', 'portraits', 'outside', 'exterior', 'display', 'cool']",1
+382,"['problem', 'others', 'mentioned']",0
+383,"['trying', 'many', 'many', 'handsfree', 'gadgets', 'one', 'finally', 'works', 'well']",1
+384,"['magical', 'help']",1
+385,"['worst', 'piece', 'crap', 'ever', 'along', 'verizon', 'customer', 'service']",0
+386,"['poor', 'sound', 'quality']",0
+387,"['best', 'phone', 'market']",1
+388,"['worked', 'well']",1
+389,"['company', 'shipped', 'product', 'promptly', 'works', 'well']",1
+390,"['exactly', 'wanted']",1
+391,"['picture', 'resolution', 'far', 'comparablypriced', 'phones', 'offering', 'today']",0
+392,"['great', 'deal']",1
+393,"['excellent', 'product', 'satisfied', 'purchase']",1
+394,"['highly', 'recommend', 'encourage', 'people', 'give', 'try']",1
+395,"['better', 'youd', 'expect']",1
+396,"['using', 'earpieces', 'left', 'right', 'thing', 'stay', 'ear']",0
+397,"['great', 'product', 'price']",1
+398,"['sounds', 'good', 'reasonably', 'priced', 'effective', 'simple']",1
+399,"['still', 'waiting', 'sure', 'item', 'would', 'work', 'well', 'ever', 'recieve']",0
+400,['disappointment'],0
+401,"['prompt', 'service']",1
+402,"['excellent', 'product', 'price']",1
+403,"['pleased', 'headset']",1
+404,"['dont', 'waste', 'money', 'time']",0
+405,"['especially', 'love', 'long', 'battery', 'life']",1
+406,"['stupid', 'keep', 'buying', 'new', 'chargers', 'car', 'chargers', 'cradles', 'headphones', 'car', 'kits', 'every', 'time', 'new', 'phone', 'comes']",0
+407,"['works', 'great']",1
+408,"['plantronics', 'bluetooth', 'excelent', 'buy']",1
+409,"['came', 'verizon', 'cingulair', 'nicer', 'cell', 'phones', 'first', 'thing', 'noticed', 'really', 'bad', 'service']",0
+410,"['ill', 'looking', 'new', 'earpiece']",0
+411,"['highly', 'recommend', 'device', 'everyone']",1
+412,"['jawbone', 'era', 'awesome']",1
+413,"['received', 'white', 'colored', 'battery', 'goes', 'dead', 'couple', 'hoursthe', 'original', 'used', 'last', 'week', 'still', 'lasts', 'longer', 'thereplacement']",0
+414,"['year', 'battery', 'went', 'completely', 'dead', 'headset']",0
+415,"['used', 'several', 'phone', 'two', 'years', 'one', 'best']",1
+416,"['awesome', 'new', 'look', 'fall']",1
+417,"['first', 'phone', 'cheaply', 'made']",0
+418,"['att', 'clear', 'sound', 'distorted', 'yell', 'talk']",0
+419,"['plastic', 'breaks', 'really', 'easy', 'clip']",0
+420,"['price', 'good']",1
+421,"['dont', 'make', 'mistake']",0
+422,"['oh', 'forgot', 'also', 'mention', 'weird', 'color', 'effect', 'phone']",0
+423,"['using', 'iriver', 'spinn', 'case', 'fits', 'fine']",1
+424,"['also', 'area', 'unit', 'broke', 'fond', 'magnetic', 'strap']",0
+425,"['overall', 'psyched', 'phone', 'appointments', 'contacts', 'gets', 'great', 'reception']",1
+426,"['every', 'thing', 'phone', 'work', 'perfectly', 'like']",1
+427,"['another', 'note', 'phones', 'appearance', 'really', 'looks', 'rather', 'bland', 'especially', 'black', 'model']",0
+428,"['really', 'easy']",1
+429,"['sanyo', 'survived', 'dozens', 'drops', 'blacktop', 'without', 'ill', 'effect']",1
+430,"['fantastic', 'earphones']",1
+431,"['finds', 'cell', 'phone', 'right', 'away', 'enter', 'car']",1
+432,"['low', 'quality']",0
+433,"['highly', 'recommend', 'modest', 'priced', 'cellular', 'phone']",1
+434,"['get', 'better', 'reception', 'clarity', 'phone']",1
+435,"['warning', 'stay', 'away']",0
+436,"['wish', 'could', 'return', 'unit', 'get', 'back', 'money']",0
+437,"['awsome', 'device', 'works', 'great']",1
+438,"['used', 'talk', 'hours', 'battery', 'would', 'literally', 'drained', 'dying']",0
+439,"['dont', 'find', 'bad', 'unit', 'comes', 'one', 'earpad', 'onlyi', 'would', 'recommend', 'anyone']",0
+440,['displeased'],0
+441,"['might', 'gotten', 'defect', 'would', 'risk', 'buying', 'built', 'quality', 'alone']",0
+442,"['made', 'case', 'small', 'difficult', 'install']",0
+443,"['restored', 'phone', 'like', 'new', 'performance']",1
+444,"['would', 'recommend', 'purchasing', 'jabra', 'jx', 'series', 'works', 'flawlessly', 'moto', 'go', 'figure']",1
+445,"['searched', 'internet', 'found', 'one', 'best', 'value']",1
+446,['fit'],0
+447,"['happy', 'product']",1
+448,"['screen', 'size', 'big', 'key', 'pad', 'lit', 'well', 'enough', 'camera', 'quality', 'excellent', 'camera', 'phone']",1
+449,"['theres', 'really', 'nothing', 'bad', 'say', 'headset']",0
+450,"['glad', 'found', 'product', 'amazon', 'hard', 'find', 'wasnt', 'high', 'priced']",1
+451,"['portable', 'works']",1
+452,"['colleague', 'get', 'great', 'receptiona', 'little', 'expensive', 'performance', 'great']",1
+453,"['even', 'fully', 'charged', 'went', 'bed', 'turned', 'blue', 'tooth', 'wifi', 'noticed', 'left', 'morning']",0
+454,"['also', 'problems', 'phone', 'reading', 'memory', 'card', 'always', 'turn']",0
+455,"['good', 'wearing', 'hat', 'sunglasses']",0
+456,"['timely', 'shipment', 'quality', 'product']",1
+457,"['nice', 'solid', 'keyboard']",1
+458,"['well', 'made', 'fits', 'surefire', 'gx', 'perfectly']",1
+459,"['horrible', 'phone']",0
+460,"['bt', 'battery', 'junk']",0
+461,"['would', 'recommend', 'others']",1
+462,"['cant', 'get', 'software', 'work', 'computer']",0
+463,['disappointed'],0
+464,"['poor', 'voice', 'clarity']",0
+465,"['battery', 'works', 'great']",1
+466,"['buyers', 'remorse', 'one']",0
+467,"['disappointed', 'accessoryone']",0
+468,"['find', 'inexcusable', 'probably', 'returning', 'phone', 'perhaps', 'changing', 'carriers']",0
+469,"['looks', 'great', 'strong']",1
+470,"['tmobile', 'service', 'years', 'pretty', 'happy']",1
+471,"['update', 'procedure', 'difficult', 'cumbersome']",0
+472,"['disappointment', 'hate', 'anything', 'goes', 'ear']",0
+473,"['great', 'software', 'motorolas']",1
+474,"['delivery', 'time']",1
+475,"['easy', 'use']",1
+476,"['uncomfortable', 'ear', 'dont', 'use', 'lg', 'vx', 'env']",0
+477,"['volume', 'switch', 'rocketed', 'unit', 'destination', 'unknown']",0
+478,"['holds', 'charge', 'long', 'time', 'reasonably', 'comfortable', 'longwearing', 'conditions', 'quality', 'sound', 'tremendous']",1
+479,"['id', 'like', 'return']",0
+480,"['keyboard', 'really', 'worthwhile', 'usefulness', 'sturdy', 'enough', 'dont', 'expect', 'problems']",1
+481,"['verizons', 'bills', 'however', 'difficult', 'understand', 'even', 'though', 'pricing', 'plans', 'simple']",0
+482,"['charging', 'overnight', 'batteries', 'work', 'great']",1
+483,"['wont', 'regret']",1
+484,"['love', 'phone']",1
+485,['disappointment'],0
+486,"['user', 'friendly']",0
+487,"['unfortunately', 'ability', 'actually', 'know', 'receiving', 'call', 'rather', 'important', 'feature', 'phone', 'pitiful', 'respect']",0
+488,"['exchanged', 'phone', 'even', 'problem']",0
+489,"['results', 'phone', 'either', 'stuck', 'max', 'volume', 'mute']",0
+490,"['pda', 'rocks']",1
+491,"['super', 'charged', 'use', 'small', 'hybrid', 'palmtopcameracellphone', 'excels', 'roles']",1
+492,"['would', 'definitely', 'recommend', 'jabra', 'btv', 'looking', 'comfort', 'clarity', 'great', 'price']",1
+493,"['verizon', 'years', 'ago', 'really', 'liked', 'service']",1
+494,"['pretty', 'piece', 'junk']",0
+495,"['plug', 'wrong', 'size']",0
+496,"['works', 'described']",1
+497,"['save', 'money', 'item', 'months']",0
+498,"['bad', 'purchase']",0
+499,"['well', 'satisfied']",1
+500,"['bose', 'noise', 'cancelling', 'amazing', 'important', 'nyc', 'commuter']",1
+501,"['battery', 'excellent', 'bargain']",1
+502,"['defective', 'crap']",0
+503,"['would', 'given', 'star', 'able']",0
+504,"['wear', 'glasses', 'fits', 'fine']",1
+505,"['sound', 'quality', 'device', 'unacceptableunless', 'really', 'quiet', 'area', 'almost', 'hear', 'nothing']",0
+506,"['would', 'recommend', 'item', 'anyone']",0
+507,"['holster', 'arrived', 'match', 'photo', 'ad']",0
+508,"['greatno', 'problems']",1
+509,"['earlier', 'review', 'noted', 'plug', 'charger', 'nothing', 'happens']",0
+510,"['frog', 'phone', 'charm', 'adorable', 'eye', 'catching']",1
+511,"['never', 'know', 'pushed', 'hard', 'enough', 'right', 'number', 'times', 'function', 'want']",0
+512,"['sound', 'clear', 'people', 'talk', 'amazed', 'quality']",1
+513,"['got', 'aluminum', 'case', 'new', 'palm', 'vx', 'worked', 'really', 'wellit', 'protected', 'handheld', 'perfectly', 'far']",1
+514,"['good', 'product', 'well', 'made']",1
+515,"['mobile', 'phone', 'tools', 'must']",1
+516,"['impressed', 'job', 'motorola', 'sturdiness', 'phone']",1
+517,"['received', 'orders', 'well', 'within', 'shipping', 'timeframe', 'everything', 'good', 'working', 'order', 'overall', 'excited', 'source']",1
+518,"['phone', 'sturdy', 'waterproof']",1
+519,"['impressed', 'would', 'recommend', 'item', 'anyone']",0
+520,"['complaint', 'standard', 'sound', 'volume', 'little', 'low', 'even', 'turned']",0
+521,"['thanks', 'amazon', 'things', 'need', 'good', 'price']",1
+522,"['ended', 'sliding', 'edge', 'pants', 'back', 'pockets', 'instead']",1
+523,"['go', 'store', 'bought', 'new', 'nokia', 'phone', 'working', 'great']",1
+524,"['works', 'great']",1
+525,"['really', 'ugly']",0
+526,"['horrible', 'switch', 'times']",0
+527,"['noise', 'shield', 'incrediable']",1
+528,"['real', 'improvement']",0
+529,"['razr', 'battery', 'good', 'buy']",1
+530,"['keep', 'good', 'work', 'amazon']",1
+531,"['refuse', 'refund', 'replace']",0
+532,"['unfortunately', 'easy', 'accidentally', 'activate', 'gentletouch', 'buttons', 'accidentally', 'touch', 'phone', 'face', 'listening']",0
+533,"['basically', 'threw', 'money', 'window', 'nothing']",0
+534,"['great', 'case', 'price']",1
+535,"['took', 'one', 'drop', 'inches', 'kitchen', 'counter', 'crackedi', 'impressed', 'laughing']",0
+536,"['bluetooth', 'range', 'good', 'days', 'ago', 'left', 'phone', 'trunk', 'got', 'call', 'carried', 'conversation', 'without', 'hitch']",1
+537,"['small', 'sleek', 'impressive', 'looking', 'practical', 'setup', 'ample', 'storage', 'place']",1
+538,"['eargels', 'channel', 'sound', 'directly', 'ear', 'seem', 'increase', 'sound', 'volume', 'clarity']",1
+539,"['none', 'new', 'ones', 'ever', 'quite', 'worked', 'properly']",0
+540,"['glad', 'purchased']",1
+541,"['missed', 'numerous', 'calls', 'reason']",0
+542,"['perhaps', 'phone', 'defective', 'people', 'cannot', 'hear', 'use']",0
+543,"['dont', 'buy', 'product']",0
+544,"['sucked', 'stuff', 'work', 'phone']",0
+545,"['shifting', 'bubbling', 'peeling', 'even', 'scratch', 'nothingi', 'couldnt', 'happier', 'new', 'one', 'droid']",1
+546,"['worst', 'software', 'ever', 'used', 'could', 'give', 'zero', 'stars', 'would']",0
+547,"['trying', 'make', 'call', 'exercise', 'frustration']",0
+548,"['case', 'flimsy', 'piece', 'plastic', 'front', 'side', 'protection', 'whatsoever']",0
+549,"['jabra', 'earset', 'happy', 'sound', 'quality', 'especially', 'outgoing', 'better']",1
+550,"['love', 'camera', 'really', 'pretty', 'good', 'quality']",1
+551,"['thank', 'great', 'service']",1
+552,"['total', 'package']",1
+553,"['seller', 'understanding', 'patient', 'would', 'definitely', 'buy']",1
+554,"['give', 'wirefly', 'stari', 'contact', 'cingularatt', 'inform', 'practice']",0
+555,['aggravating'],0
+556,"['great', 'product', 'price']",1
+557,"['purchased', 'family', 'friends', 'enjoy', 'clarity', 'ease', 'use']",1
+558,"['virgin', 'wireless', 'rocks', 'cheap', 'little', 'phone']",1
+559,"['none', 'works', 'dont', 'buy']",0
+560,"['muddy', 'low', 'quality', 'sound', 'casing', 'around', 'wires', 'insert', 'poorly', 'super', 'glued', 'slid']",0
+561,"['please', 'dont', 'waste', 'money']",0
+562,"['quite', 'satisfied', 'purchase']",1
+563,"['looking', 'good', 'quality', 'motorola', 'headset', 'keep', 'looking', 'isnt']",0
+564,"['yet', 'plantronincs', 'continues', 'use', 'flawed', 'charger', 'design']",0
+565,"['disapointing', 'results']",0
+566,"['cumbersome', 'design']",0
+567,"['great', 'new', 'packaged', 'nice', 'works', 'good', 'problems', 'came', 'less', 'time', 'expected']",1
+568,"['great', 'product']",1
+569,"['piece', 'crap']",0
+570,"['experience', 'terrible', 'fourth', 'bluetooth', 'headset', 'much', 'comfortable', 'last', 'jabra', 'hated']",0
+571,"['fixes', 'problems']",1
+572,"['worst', 'ever']",0
+573,['happy'],1
+574,"['trouble', 'accessing', 'internet', 'downloading', 'ringtones', 'performing', 'functions']",1
+575,"['barely', 'ever', 'hear', 'constantly', 'saying']",0
+576,"['battery', 'life', 'highly', 'unacceptable']",0
+577,"['company', 'joke']",0
+578,"['everything', 'description', 'said', 'would']",1
+579,"['due', 'happening', 'every', 'call', 'forced', 'stop', 'using', 'headset']",0
+580,"['works', 'great', 'car', 'charger', 'especially', 'cannot', 'plug', 'two', 'adapters', 'time']",1
+581,"['verizon', 'tech', 'support', 'walked', 'procedures', 'none', 'worked', 'ended', 'hard', 'reset', 'wiping', 'data']",0
+582,"['voice', 'quality', 'signal', 'strength', 'dropped', 'calls']",0
+583,"['plays', 'louder', 'speaker', 'size', 'price', 'low', 'would', 'think', 'quality', 'lacking', 'however']",1
+584,"['better', 'expected']",1
+585,"['feels', 'poorly', 'constructed', 'menus', 'difficult', 'navigate', 'buttons', 'recessed', 'difficult', 'push']",0
+586,"['battery', 'holding', 'well']",1
+587,"['also', 'difficult', 'put', 'onid', 'recommend', 'avoiding', 'product']",0
+588,"['used', 'two', 'days', 'wasnt', 'always', 'easy', 'hear']",0
+589,"['got', 'car', 'charger', 'even', 'week', 'charger', 'brokeni', 'went', 'plug', 'started', 'smoking']",0
+590,"['sprint', 'terrible', 'customer', 'service']",0
+591,"['linked', 'phone', 'without', 'effort']",1
+592,['cool'],1
+593,"['easy', 'use']",1
+594,"['better', 'new']",1
+595,"['possesed', 'get', 'junk', 'idea']",0
+596,"['piece', 'trash']",0
+597,"['pretty', 'good', 'product']",1
+598,"['great', 'phone']",1
+599,"['price', 'amazon', 'excellent', 'product', 'would', 'highly', 'recommend']",1
+600,"['research', 'development', 'division', 'obviously', 'knows', 'theyre']",1
+601,"['real', 'killer', 'volume', 'course', 'breaking']",0
+602,"['phones', 'working', 'fine']",1
+603,"['happy', 'product']",1
+604,"['poor', 'construction']",0
+605,['infuriating'],0
+606,"['overall', 'would', 'recommend', 'phone', 'new', 'walkman']",1
+607,"['sprint', 'charges', 'service']",0
+608,"['cheap', 'feel', 'look', 'cheap']",0
+609,"['fits', 'ear', 'well', 'comfortable']",1
+610,"['doesnt', 'work', 'europe', 'asia']",0
+611,"['clipping', 'belt', 'deffinitely', 'make', 'feel', 'like', 'cents', 'upandcoming']",1
+612,"['like', 'design', 'look', 'jabra', 'behing', 'ear', 'headsets', 'pretty', 'comfortible', 'wear', 'hours', 'day', 'without', 'pain', 'ear']",1
+613,"['amazed', 'quick', 'arrival', 'two', 'original', 'lg', 'cell', 'phone', 'batteries', 'fraction', 'price']",1
+614,"['worst', 'phone', 'samsungcrap', 'crappy', 'samsung', 'worst', 'ever', 'seeen']",0
+615,"['charger', 'worked', 'week', 'completely', 'stopped', 'charging', 'phone']",0
+616,"['poor', 'product']",0
+617,"['however', 'needed', 'better', 'instructions']",0
+618,"['need', 'two', 'hands', 'operate', 'screenthis', 'software', 'interface', 'decade', 'old', 'cannot', 'compete', 'new', 'software', 'designs']",0
+619,"['worked', 'well', 'paired', 'treo', 'skype', 'headset', 'pc', 'using', 'usb', 'bluetooth', 'transceiver']",1
+620,"['steer', 'clear', 'product', 'go', 'genuine', 'palm', 'replacementr', 'pens', 'come', 'threepack']",0
+621,"['buy', 'buyit', 'sucks']",0
+622,"['great', 'product', 'sure', 'beats', 'using', 'fingers']",1
+623,"['plus', 'seriously', 'believe', 'worth', 'steep', 'price', 'point']",0
+624,"['cases', 'tried', 'normally', 'fall', 'apart', 'months', 'one', 'seems', 'long', 'haul']",1
+625,"['dissapointing', 'performance']",0
+626,"['dont', 'make', 'mistake', 'please', 'dont', 'buy', 'phone']",0
+627,"['phone', 'might', 'well', 'worst', 'ever', 'brand']",0
+628,"['case', 'less', 'extra', 'originally', 'put', 'later', 'discarded', 'scratched', 'ear']",0
+629,"['recommend', 'igo', 'anyone', 'different', 'brand', 'cell', 'phonesmp', 'players', 'family']",1
+630,"['dont', 'bother', 'go', 'store']",0
+631,"['posted', 'detailed', 'comments', 'grey', 'black', 'phone', 'fire', 'red', 'great', 'color']",1
+632,"['problem', 'item', 'would', 'order', 'needed']",1
+633,"['get', 'pay', 'guess']",0
+634,"['software', 'great', 'job', 'could', 'also', 'make', 'ringtones', 'form', 'existing', 'cds', 'without', 'internet', 'connection']",1
+635,"['surprised', 'good', 'quality', 'car', 'charger', 'theres', 'much', 'reviews']",1
+636,['fabulous'],1
+637,"['however', 'bt', 'headsets', 'currently', 'good', 'real', 'time', 'games', 'like', 'firstperson', 'shooters', 'since', 'audio', 'delay', 'messes']",0
+638,"['used', 'bitpim', 'free', 'program', 'find', 'internetto', 'transfer', 'data', 'phonethe', 'price', 'cable', 'excellent']",1
+639,"['disappointing', 'accessory', 'good', 'manufacturer']",0
+640,"['performed', 'awful', 'muffled', 'tinny', 'incoming', 'sound', 'severe', 'echo', 'end', 'call']",0
+641,['windresistant'],1
+642,"['obviously', 'terrible', 'customer', 'service', 'get', 'pay']",0
+643,"['last', 'forever', 'overly', 'expensive', 'replaceeasy', 'operate', 'sound', 'much', 'better', 'others', 'tried']",1
+644,"['contacted', 'company', 'told', 'although', 'unit', 'still', 'warranty', 'couldnt', 'produce', 'receipt', 'luck']",0
+645,"['linksys', 'way', 'exchange', 'bad', 'phone', 'refurb', 'unit', 'something']",0
+646,"['phone', 'sturdy', 'nokia', 'bar', 'phones']",1
+647,"['great', 'phone']",1
+648,"['placed', 'treo', 'case', 'snug', 'lot', 'extra', 'room', 'sides']",0
+649,['pleased'],1
+650,"['battery', 'terrible']",0
+651,"['found', 'product', 'easy', 'set', 'use']",1
+652,"['earpiece', 'large', 'heavyit', 'keeps', 'falling', 'ear']",0
+653,"['utter', 'crap', 'sound', 'quality', 'terrible']",0
+654,"['charger', 'arrived', 'within', 'promised', 'timeframe', 'work']",0
+655,"['ear', 'loop', 'needed', 'tiny', 'sound', 'great']",1
+656,"['finally', 'three', 'four', 'times', 'spring', 'latch', 'broke', 'could', 'use', 'longer', 'visor']",0
+657,"['handsfree', 'part', 'works', 'fine', 'car', 'tries', 'download', 'address', 'book', 'treo', 'rebootsoverall', 'still', 'rate', 'device', 'high']",1
+658,"['talk', 'useless', 'customer', 'service']",0
+659,"['felt', 'light', 'tinny']",0
+660,"['fit', 'palm', 'tungsten', 'broke', 'first', 'time', 'tried', 'plug']",0
+661,"['happy', 'purchase', 'good', 'quality', 'low', 'price']",1
+662,"['love', 'look', 'feel', 'samsung', 'flipphones']",1
+663,"['welldesigned', 'sharp', 'blue', 'nice', 'color']",1
+664,['everything'],1
+665,"['could', 'recommend']",0
+666,"['nice', 'sound']",1
+667,"['looks', 'good', 'picture', 'case', 'huge', 'disappointment']",0
+668,"['much', 'less', 'jawbone', 'going', 'replace']",1
+669,"['setup', 'went', 'smoothly']",1
+670,"['extremely', 'slow', 'takes', 'forever', 'anything']",0
+671,"['must', 'study', 'anyone', 'interested', 'worst', 'sins', 'industrial', 'design']",0
+672,"['first', 'thing', 'happened', 'tracking']",0
+673,"['well', 'made', 'easy', 'access', 'phone', 'handy', 'detachable', 'belt', 'clip']",1
+674,"['continue', 'pairing', 'periodically', 'since', 'somehow', 'kept', 'dropping']",0
+675,"['cant', 'upload', 'ringtones', 'third', 'party']",0
+676,"['bluetooth', 'work', 'phone', 'locks', 'screens', 'flash', 'makes', 'calls', 'randomly', 'pocket', 'locked']",0
+677,"['truly', 'awful']",0
+678,"['works', 'fine', 'motorola', 'cellphone', 'lot', 'better', 'wornout', 'battery']",1
+679,"['volume', 'ringer', 'real', 'good', 'choices', 'loud']",1
+680,"['none', 'tones', 'acceptable']",0
+681,"['camera', 'color', 'balance', 'awful']",0
+682,"['product', 'clearly', 'ready', 'prime', 'time', 'dont', 'care', 'cool', 'looks', 'cant', 'tell', 'call', 'coming', 'worthless']",0
+683,"['love', 'ringtones', 'upbeat']",1
+684,"['chinese', 'forgeries', 'abound']",0
+685,"['easy', 'pair', 'samsung', 'cell']",1
+686,"['instructions', 'didnt', 'explain', 'microphone', 'jack', 'could', 'used']",0
+687,"['would', 'advise', 'purchase', 'item', 'never', 'worked', 'well']",0
+688,"['bad', 'pay', 'month', 'service']",0
+689,"['works', 'well']",1
+690,"['nokia', 'ca', 'usb', 'cable', 'work', 'phone']",0
+691,"['clear', 'crisp', 'sound']",1
+692,"['use', 'smallest', 'earpieces', 'provided', 'stays', 'pretty', 'well']",1
+693,"['biggest', 'complaint', 'battery', 'drains', 'superfast']",0
+694,"['design', 'might', 'ergonomic', 'theory', 'could', 'stand', 'ear']",0
+695,"['buy', 'want', 'use', 'holster']",0
+696,"['phone', 'also', 'take', 'great', 'pictures', 'even', 'video', 'clips']",1
+697,"['doesnt', 'make', 'look', 'cool']",0
+698,"['ears', 'occupied', 'background', 'distracting']",1
+699,"['comfortable', 'fit', 'need', 'headset', 'comfortable', 'least', 'hour', 'time', 'entire', 'day']",1
+700,"['also', 'phone', 'doesnt', 'seem', 'accept', 'anything', 'except', 'cbr', 'mps', 'preferably', 'ripped', 'windows', 'media', 'player']",0
+701,"['cant', 'beat', 'price']",1
+702,"['comes', 'strong', 'light', 'use', 'light', 'camera', 'shots', 'even', 'flash', 'sos', 'signals', 'seriously']",1
+703,"['lightweight', 'works', 'well']",1
+704,['beware'],0
+705,"['love', 'cable', 'allows', 'connect', 'miniusb', 'device', 'pc']",1
+706,"['anyone', 'near', 'hear', 'part', 'conversation']",0
+707,"['cool', 'cases', 'open', 'allowing', 'screen', 'get', 'scratched']",1
+708,"['bought', 'phone', 'replacement', 'startac', 'regretted', 'since']",0
+709,"['appears', 'actually', 'outperform', 'original', 'battery', 'china', 'came', 'vi']",1
+710,"['cant', 'store', 'anything', 'phone', 'numbers', 'sim']",0
+711,"['lasts', 'less', 'minutes', 'actually', 'try', 'use', 'phonemy', 'wife', 'phone', 'problem']",0
+712,"['poor', 'quality']",0
+713,"['jabra', 'ear', 'gels', 'best']",1
+714,['worth'],0
+715,"['phone', 'crashed', 'completely', 'get', 'replaced']",0
+716,"['quit', 'working', 'id', 'used', 'months', 'purchased', 'another', 'one', 'best', 'headset', 'ever', 'owned']",1
+717,"['unfortunately', 'recharge', 'iphone', 'despite', 'connecting', 'multiple', 'power', 'sources', 'imac', 'external', 'battery', 'wall', 'outlet', 'etc']",0
+718,"['great', 'phone']",1
+719,"['simply', 'want', 'small', 'flip', 'phone', 'look', 'elsewhere', 'extra', 'bells', 'whistles', 'mediocre']",0
+720,"['good', 'value', 'works', 'fine', 'power', 'via', 'usb', 'car', 'wall', 'outlet']",1
+721,"['phone', 'doesnt', 'slide', 'around', 'car', 'grip', 'prevents', 'phone', 'slipping', 'hand']",1
+722,"['simply', 'best', 'bluetooth', 'headset', 'sound', 'quality']",1
+723,"['think', 'plan', 'onethis', 'sure', 'last', 'moto', 'phone']",0
+724,"['span', 'hour', 'two', 'people', 'exclaim', 'whoa', 'new', 'phone', 'tv']",1
+725,"['always', 'used', 'corded', 'headsets', 'freedom', 'wireless', 'helpful']",1
+726,"['case', 'passed', 'one', 'year', 'mark', 'shows', 'signs', 'wear', 'functional']",1
+727,"['leather', 'nice', 'soft', 'fit', 'tight', 'cut', 'face', 'good', 'shape']",1
+728,"['everything', 'need', 'couldnt', 'ask']",1
+729,"['receiving', 'using', 'product', 'days', 'broke']",0
+730,"['product', 'great', 'makes', 'working', 'lot', 'easier', 'go', 'copier', 'waiting', 'hold', 'something']",1
+731,"['none', 'three', 'sizes', 'sent', 'headset', 'would', 'stay', 'ears']",0
+732,"['tmobile', 'best', 'customer', 'service', 'anywhere']",1
+733,"['arrived', 'quickly', 'much', 'less', 'expensive', 'others', 'sold']",1
+734,"['tried', 'units', 'failed', 'within', 'months', 'pros']",0
+735,"['provides', 'good', 'protection', 'looks', 'classy']",1
+736,"['krussel', 'always', 'good']",1
+737,"['tracfonewebsite', 'user', 'friendly', 'makes', 'easy', 'toactivate', 'etc']",1
+738,"['design', 'good']",1
+739,"['great', 'reception', 'time']",1
+740,"['would', 'highly', 'recommend', 'product']",1
+741,"['couldnt', 'use', 'unit', 'sunglasses', 'good', 'texas']",0
+742,"['dit', 'work', 'time', 'nokia']",0
+743,"['bought', 'mainly', 'charger', 'broke', 'soon', 'purchasing']",0
+744,"['like', 'loud', 'buzzing', 'override', 'conversations', 'phone']",0
+745,"['fantastic', 'buy', 'get', 'whatever', 'next', 'phone']",1
+746,"['stay', 'away', 'store', 'careful']",0
+747,"['blueant', 'supertooth', 'handsfree', 'phone', 'speaker', 'awesome']",1
+748,['fit'],0
+749,"['item', 'arrived', 'quickly', 'works', 'great', 'metro', 'pcs', 'samsung', 'schr', 'slider', 'phone', 'sony', 'premium', 'sound', 'ear', 'plugs']",1
+750,"['light', 'plenty', 'battery', 'capacity', 'confortable', 'wear', 'somewhat', 'extended', 'periods', 'time']",1
+751,['disappointing'],0
+752,"['blue', 'ant', 'easy', 'use']",1
+753,"['cheap', 'hey', 'works', 'pleasantly', 'suprised', 'given', 'low', 'cost', 'item']",1
+754,"['camera', 'phone', 'may', 'used', 'dustpan', 'indoors', 'id', 'rather', 'using', 'disposable']",0
+755,"['days', 'later', 'puff', 'smoke', 'came', 'phone', 'use']",0
+756,"['convenient', 'simple', 'use', 'gets', 'job', 'done', 'makes', 'car', 'ride', 'much', 'smoother']",1
+757,"['nano', 'stated', 'itmy', 'son', 'dissapointed']",0
+758,"['sound', 'quality', 'excellent', 'well']",1
+759,"['best', 'headset', 'used']",1
+760,"['would', 'reccommend']",0
+761,"['around', 'years', 'carries', 'highest', 'quality', 'antiglare', 'screen', 'protector', 'found', 'date']",1
+762,['wanted'],1
+763,"['particular', 'model', 'would', 'work', 'motorola', 'smartphone']",0
+764,"['wont', 'work', 'right', 'atleast']",0
+765,"['addition', 'feels', 'amp', 'looks', 'phone', 'lightweight', 'cheap', 'plastic']",0
+766,"['warranty', 'problems', 'reoccurebottom', 'line', 'put', 'money', 'somewhere', 'else', 'cingular', 'support']",0
+767,"['really', 'wanted', 'plantronics', 'right', 'one', 'many', 'issues', 'methe', 'good']",0
+768,"['great', 'product']",1
+769,"['crisp', 'clear']",1
+770,"['first', 'charge', 'kept', 'going', 'dead', 'minutes']",0
+771,"['cheap', 'plastic', 'creaks', 'like', 'old', 'wooden', 'floor']",0
+772,"['get', 'absolutely', 'horrible', 'reception', 'apartment', 'phones', 'problem']",0
+773,"['reception', 'generally', 'good']",1
+774,"['excellent', 'sound', 'battery', 'life', 'inconspicuous', 'boot']",1
+775,"['great', 'bluetooth']",1
+776,"['highly', 'recommend', 'case']",1
+777,['worthwhile'],1
+778,"['great', 'deal']",1
+779,"['phone', 'got', 'year', 'old', 'slowly', 'breaking', 'despite', 'much', 'care', 'part']",0
+780,"['sorry', 'made', 'purchase']",0
+781,"['bought', 'hoping', 'could', 'make', 'bluetooth', 'headset', 'fit', 'better', 'things', 'made', 'impossible', 'wear']",0
+782,"['treo', 'tmobile', 'refused', 'replace', 'forced', 'buy', 'another', 'phone', 'without', 'kind', 'upgrade', 'discount']",0
+783,['horrible'],0
+784,"['dont', 'think', 'would', 'hold', 'securly', 'belt']",0
+785,"['allows', 'possibility', 'double', 'booking', 'date', 'time', 'first']",0
+786,"['work', 'weeks', 'break']",0
+787,"['simple', 'use', 'like']",1
+788,"['great', 'tool', 'entertainment', 'communication', 'data', 'managementoh', 'sure', 'use', 'activesync', 'optimal', 'data', 'synchronization', 'results']",1
+789,"['cant', 'use', 'case', 'smell', 'disgusting']",0
+790,['wanted'],0
+791,"['cases', 'would', 'order', 'another']",1
+792,"['great', 'phone']",1
+793,"['bought', 'battery', 'coupon', 'amazon', 'happy', 'purchase']",1
+794,"['internet', 'access', 'fine', 'rare', 'instance', 'worked']",0
+795,"['perfect', 'ps']",1
+796,"['five', 'star', 'plus', 'plus']",1
+797,"['good', 'quality', 'bargain', 'bought', 'bought', 'cheapy', 'big', 'lots', 'sounded', 'awful', 'people', 'end', 'couldnt', 'hear']",1
+798,['drain'],0
+799,"['tried', 'talking', 'real', 'loud', 'shouting', 'telephone', 'gets', 'old', 'still', 'told', 'wasnt', 'great']",0
+800,"['good', 'works', 'fine']",1
+801,"['price', 'great', 'deal']",1
+802,"['great', 'price']",1
+803,"['wind', 'completely', 'useless']",0
+804,"['yes', 'shiny', 'front', 'side', 'love']",1
+805,['work'],0
+806,"['first', 'thought', 'grtting', 'good', 'deal', 'plugged', 'phone', 'vc', 'razr']",0
+807,"['reception', 'headset', 'excellent']",1
+808,"['thumbs', 'seller']",1
+809,"['verizon', 'lg', 'phone', 'work', 'well', 'together', 'good', 'reception', 'range', 'exceeds', 'feet', 'line', 'sight']",1
+810,"['improper', 'description', 'return']",0
+811,"['works', 'comfortable']",1
+812,"['battery', 'chargelife', 'quite', 'long']",1
+813,"['jabra', 'eargels', 'fit', 'ears', 'well']",1
+814,"['battery', 'life']",0
+815,"['checked', 'everywhere', 'feature', 'really', 'disappointing']",0
+816,"['product', 'exactly', 'described']",1
+817,"['gets', 'signal', 'verizon', 'phones', 'wont']",1
+818,"['doesnt', 'job']",0
+819,"['would', 'recommend']",1
+820,"['plan', 'ordering']",1
+821,"['said', 'phone', 'camera', 'nice', 'many', 'cool', 'effects', 'play', 'video', 'decent', 'well']",1
+822,"['satisfied', 'cell', 'phone', 'day', 'one']",1
+823,"['keep', 'getting', 'better', 'better', 'third', 'one', 'numerous', 'palms']",1
+824,"['awkward', 'use', 'unreliable']",0
+825,"['shipping', 'time', 'also', 'quick']",1
+826,"['good', 'hoped']",0
+827,"['good', 'case']",1
+828,"['doesnt', 'work']",0
+829,"['really', 'good', 'product']",1
+830,"['unfortunately', 'work']",0
+831,"['three', 'broke', 'within', 'two', 'months', 'use']",0
+832,"['dont', 'buy']",0
+833,"['father', 'battery', 'dying']",0
+834,"['however', 'ear', 'pads', 'come', 'easily', 'one', 'week', 'lost', 'one']",0
+835,"['calls', 'drop', 'phone', 'comes', 'screen', 'goes', 'black', 'worst', 'stops', 'ringing', 'intermittently']",0
+836,"['horrible', 'horrible', 'protector']",0
+837,"['dont', 'like', 'nokia', 'either']",0
+838,"['reaching', 'bottom', 'row', 'uncomfortable', 'send', 'end', 'keys', 'expect']",0
+839,"['bought', 'nokia', 'cell', 'phone', 'weeks', 'ago', 'nightmare']",0
+840,"['would', 'take', 'long', 'describe', 'bad', 'customer', 'service', 'experience', 'amazon']",0
+841,"['disappointing', 'thing', 'speakerphone']",0
+842,"['terrible', 'car', 'accept', 'cassette']",0
+843,"['product', 'useless', 'since', 'enough', 'charging', 'current', 'charge', 'cellphones', 'planning', 'use']",0
+844,['says'],0
+845,"['stay', 'away']",0
+846,"['used', 'dirty']",0
+847,"['unreliable', 'service', 'tmobile']",0
+848,"['good', 'enough', 'price']",0
+849,"['bought', 'two', 'neither', 'charge']",0
+850,"['looks', 'nice']",1
+851,"['excellent', 'tool', 'especially', 'paired', 'phones', 'autoanswer']",1
+852,"['read', 'others', 'reviews', 'havent', 'problem']",1
+853,"['products', 'cover', 'important', 'light', 'sensor', 'ear', 'outlet']",0
+854,"['comfortable', 'hand']",1
+855,['work'],0
+856,"['poor', 'reliability']",0
+857,['works'],1
+858,"['take', 'picture', 'battery', 'drops', 'bar', 'starts', 'beeping', 'letting', 'know', 'dieing']",0
+859,"['terrible', 'product', 'waste', 'money']",0
+860,"['last', 'time', 'buying']",0
+861,"['waste', 'money']",0
+862,"['far', 'worked', 'like', 'charm']",1
+863,"['weeks', 'far', 'good']",1
+864,"['case', 'best', 'part', 'download', 'pictures', 'laptop', 'using', 'ir', 'even', 'send', 'pictures', 'laptop', 'phone']",1
+865,"['would', 'recommend', 'item']",1
+866,"['choice', 'headset', 'yearsgreat', 'sound', 'good', 'volume', 'good', 'noise', 'cancellation']",1
+867,"['nice', 'case', 'feels', 'good', 'hands']",1
+868,"['item', 'received', 'counterfeit']",0
+869,"['really', 'good', 'far', 'probably', 'best', 'bt', 'headset', 'ever']",1
+870,"['works', 'fine']",1
+871,"['received', 'headset', 'good', 'time', 'happy']",1
+872,"['pleased', 'see', 'could', 'replace', 'well', 'travled', 'swivel', 'holster', 'blackberry', 'flip']",1
+873,"['sister', 'one', 'also', 'loves']",1
+874,"['good', 'quality']",1
+875,"['far', 'worst', 'purchase', 'made', 'amazon']",0
+876,"['excellent', 'dualpurpose', 'headset']",1
+877,['excellent'],1
+878,"['work', 'listening', 'music', 'cingular']",0
+879,"['seems', 'completely', 'secure', 'holding', 'belt', 'keeping', 'iphone', 'inside']",1
+880,"['bottowm', 'lineanother', 'worthless', 'cheap', 'gimmick', 'sprint']",0
+881,"['trouble', 'volume']",0
+882,"['good', 'thing', 'fits', 'comfortably', 'small', 'ears']",1
+883,"['warning', 'buy']",0
+884,"['pairing', 'iphone', 'could', 'happier', 'far']",1
+885,"['opens', 'battery', 'connection', 'broken', 'device', 'turned']",0
+886,"['didnt', 'want', 'clip', 'going', 'top', 'ear', 'causing', 'discomfort']",0
+887,"['best', 'headset', 'ever']",1
+888,"['dont', 'trust', 'website', 'dont', 'expect', 'helpful', 'support']",0
+889,"['loudglad', 'say', 'plantronics', 'maintains', 'flawless', 'connection', 'cell', 'static', 'normal', 'use']",1
+890,"['speaker', 'low', 'quality', 'making', 'ring', 'tones', 'sound', 'cheap']",0
+891,"['fits', 'comfortably', 'came', 'three', 'sizes', 'earbud', 'tips']",1
+892,"['excellent', 'product', 'price']",1
+893,"['bad', 'reception']",0
+894,"['product', 'high', 'quality', 'chinese', 'crap']",0
+895,"['quite', 'comfortable', 'ear']",1
+896,"['great', 'phone']",1
+897,"['dont', 'buy', 'product', 'fails']",0
+898,"['everything', 'product', 'wrongfirst']",0
+899,"['pairing', 'two', 'devices', 'easy', 'barely', 'took', 'couple', 'minutes', 'started', 'making', 'calls', 'voice', 'dialing', 'feature']",1
+900,"['utterly', 'confusing', 'first', 'caused', 'lose', 'couple', 'important', 'contacts']",0
+901,"['terrible', 'phone', 'holder']",0
+902,"['cutouts', 'buttons', 'placed', 'perfectly']",1
+903,"['love', 'able', 'use', 'one', 'headset', 'landline', 'cell']",1
+904,"['problem', 'ear', 'loops', 'made', 'weak', 'material', 'break', 'easily']",0
+905,"['nearly', 'good', 'looking', 'amazon', 'picture', 'makes', 'look']",0
+906,"['despite', 'flaws', 'case', 'exceptional', 'quality', 'well', 'worth', 'additional', 'costs', 'owning', 'official', 'oem', 'product']",1
+907,['stupid'],0
+908,"['hear', 'driving', 'car', 'usually', 'dont', 'even', 'put', 'loudest', 'setting']",1
+909,"['seller', 'shipped', 'quickly', 'much', 'cheaper', 'competitors']",1
+910,"['good', 'show', 'samsung']",1
+911,"['bought', 'saved', 'alot', 'money']",1
+912,"['always', 'cuts', 'makes', 'beep', 'beep', 'beep', 'sound', 'says', 'signal', 'failed']",0
+913,"['couldnt', 'figure']",0
+914,"['phone', 'sounded', 'ok', 'great', 'ok', 'wifes', 'phone', 'almost', 'totally', 'unintelligible', 'couldnt', 'understand', 'word', 'said']",0
+915,"['take', 'battery', 'phone', 'put', 'back', 'together', 'restart']",0
+916,"['managed', 'bend', 'leaf', 'spring', 'back', 'place', 'metal', 'enough', 'stress', 'break', 'next', 'drop']",0
+917,"['leopard', 'print', 'wonderfully', 'wild']",1
+918,['works'],1
+919,"['saggy', 'floppy', 'piece', 'junk']",0
+920,"['much', 'better', 'hard', 'plastic', 'cases']",1
+921,"['also', 'new', 'problem']",0
+922,"['happy', 'far']",1
+923,"['cool', 'phone']",1
+924,"['works', 'good']",1
+925,"['motorola', 'finally', 'got', 'voice', 'quality', 'bluetooth', 'headset', 'right']",1
+926,"['looses', 'connection', 'phone', 'even', 'within', 'couple', 'feet', 'two']",0
+927,"['great', 'would', 'really', 'recommend']",1
+928,"['makes', 'easier', 'keep', 'bluetooth', 'wearing']",0
+929,"['said', 'abovepretty', 'useless']",0
+930,"['never', 'got']",0
+931,"['pair', 'headphones', 'worst', 'ever', 'soundwise']",0
+932,"['[]', 'drain', 'weak', 'snap']",0
+933,"['charge', 'cingular', 'att', 'phone']",0
+934,"['get', 'extra', 'minutes', 'carry', 'call', 'get', 'cut']",1
+935,"['however', 'year', 'fliptop', 'started', 'get', 'loose', 'wobbly', 'eventually', 'screen', 'went', 'black', 'couldnt', 'receive', 'place', 'calls']",0
+936,"['kept', 'catching', 'cable', 'seat', 'pull', 'phone', 'turn']",0
+937,"['headset', 'fulfills', 'requirements', 'happy', 'purchase']",1
+938,"['logitech', 'bluetooth', 'headset']",1
+939,"['like', 'fact', 'rests', 'lightly', 'ear', 'rather', 'inside']",1
+940,"['lot', 'websites', 'rating', 'good', 'phone']",1
+941,"['tried', 'cables', 'computer', 'ipod', 'works', 'fine']",1
+942,"['mic', 'joke', 'volume', 'quite', 'low']",0
+943,['returning'],0
+944,"['maintain', 'connection', 'computer', 'lap']",0
+945,"['easy', 'turn', 'car', 'volume', 'controls', 'quite', 'accessable']",1
+946,"['mine', 'year', 'christmas', 'bought', 'rest', 'family']",1
+947,"['otherwise', 'easy', 'install', 'use', 'clear', 'sound']",1
+948,"['nice', 'leather']",1
+949,"['purchase', 'different', 'case']",0
+950,"['joy', 'use']",1
+951,"['much', 'disappointed', 'company']",0
+952,['satisifed'],1
+953,"['didnt', 'charge']",0
+954,"['phone', 'get', 'bought', 'sa', 'say', 'wow']",1
+955,"['buttons', 'small']",0
+956,"['reading', 'specs', 'alone', 'makes', 'say', 'wow']",1
+957,"['love', 'great', 'armband']",1
+958,"['really', 'like', 'product', 'motorola', 'allot', 'clearer', 'ear', 'piece', 'mic']",1
+959,"['however', 'keypads', 'tinny', 'sometimes', 'reach', 'wrong', 'buttons']",0
+960,"['exchanged', 'sony', 'ericson', 'za', 'pretty', 'happy', 'decision']",1
+961,"['impressed', 'price', 'cases']",1
+962,"['also', 'makes', 'easier', 'hold']",1
+963,"['use', 'product', 'motor', 'control', 'center', 'lot', 'high', 'voltage', 'humming', 'equipment', 'works', 'great']",1
+964,"['pretty', 'easy']",1
+965,"['cannot', 'make', 'calls', 'certain', 'places']",0
+966,"['however', 'girl', 'complain', 'time', 'phone', 'doesnt', 'wake', 'like', 'normal', 'phone']",0
+967,"['beautiful', 'styling', 'though']",1
+968,"['company', 'charge', 'restocking', 'fee', 'still', 'given', 'refund', 'back']",0
+969,"['trying', 'return', 'refund']",0
+970,"['plugged', 'find', 'darn', 'thing', 'worked']",0
+971,"['excellent', 'product']",1
+972,"['earbud', 'piece', 'breaks', 'easily']",0
+973,"['lousy', 'product']",0
+974,"['phone', 'tries', 'hard', 'everything', 'fails', 'ability', 'phone']",0
+975,"['best', 'charger', 'seen', 'market', 'yet']",1
+976,"['sweetest', 'phone']",1
+977,"['oh', 'charger', 'seems', 'work', 'fine']",1
+978,"['fits', 'securely', 'ear', 'hook', 'even', 'need', 'used', 'sound', 'better', 'directed', 'ear', 'canal']",1
+979,"['enough', 'volume']",0
+980,"['echo', 'problemvery', 'unsatisfactory']",0
+981,"['could', 'take', 'videos', 'time', 'quality', 'poor']",0
+982,"['dont', 'waste', 'money']",0
+983,"['going', 'first', 'negatively', 'review', 'product']",0
+984,"['adapter', 'provide', 'enough', 'charging', 'current']",0
+985,"['much', 'hype', 'phone', 'assumed', 'best', 'mistake']",0
+986,"['also', 'cannot', 'take', 'pictures', 'case', 'lense', 'covered']",0
+987,"['phone', 'falls', 'easily']",0
+988,"['didnt', 'work', 'people', 'hear', 'talk']",0
+989,"['text', 'messaging', 'feature', 'really', 'tricky', 'use']",0
+990,"['really', 'disappointed', 'charger', 'doesnt', 'work']",0
+991,"['painful', 'ear']",0
+992,"['lasted', 'one', 'day', 'blew']",0
+993,['disappointed'],0
+994,"['kind', 'flops', 'around']",0
+995,"['screen', 'get', 'smudged', 'easily', 'touches', 'ear', 'face']",0
+996,"['piece', 'junk', 'lose', 'calls', 'phone']",0
+997,"['item', 'match', 'picture']",0
+998,"['thing', 'disappoint', 'infra', 'red', 'port', 'irda']",0
+999,"['answer', 'calls', 'unit', 'never', 'worked']",0
