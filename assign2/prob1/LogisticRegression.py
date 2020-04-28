@@ -13,32 +13,40 @@ class LogisticRegression:
     def error(self, y_train, a):
         return -(y_train.dot(np.log(a))+(1-y_train).dot(np.log(1-a)))
 
-    def regularization(self, w, type, beta):
-        if(type == 'wR'):
+    def regularization(self, w, reg, beta):
+        if(reg == 'wR'):
             return 0
-        elif(type == 'L1'):
+        elif(reg == 'L1'):
             return beta*(np.sum(np.abs(w)))
-        elif(type == 'L2'):
+        elif(reg == 'L2'):
             return beta*(np.sum(np.square(w)))
 
-    def grad_desc(self, x_train, y_train, w, beta, alpha, loss, type):
+    def grad_desc(self, x_train, y_train, w, beta, alpha, loss, reg):
         loss1 = 0
+        error = []
+        iterations = [0]
+        error.append(loss)
+        count=0
         while(loss1 != loss):
+            count +=1
             z = (x_train.dot(w))  # z = wT*x
             a = self.sigmoid_fun(z)
             loss1 = loss
-            reg_factor = self.regularization(w, type, beta)
+            reg_factor = self.regularization(w, reg, beta)
             loss = reg_factor + self.error(y_train, a)
+            if(count%1000==0):
+                error.append(loss)
+                iterations.append(count)
             w = w - alpha*((a-y_train).dot(x_train))
-        return w
+        return w,error,iterations
 
-    def predict_data(self, x_test, x_train, w, y_train, type='L1', alpha=1e-4, beta=1e-3):
+    def predict_data(self, x_test, x_train, w, y_train, reg='L1', alpha=1e-4, beta=1e-3):
         z = (x_train.dot(w))  # z = wT*x
         a = self.sigmoid_fun(z)
-        reg_factor = self.regularization(w, type, beta)
+        reg_factor = self.regularization(w, reg, beta)
         loss = reg_factor + self.error(y_train, a)
         w = w - alpha*((a-y_train).dot(x_train))
-        w = self.grad_desc(x_train, y_train, w, beta, alpha, loss, type)
+        w,error,iterations = self.grad_desc(x_train, y_train, w, beta, alpha, loss, reg)
         z = (x_test.dot(w))
         a = self.sigmoid_fun(z)
-        return np.where(a > 0.5, 1, 0)
+        return np.where(a > 0.5, 1, 0),error,iterations

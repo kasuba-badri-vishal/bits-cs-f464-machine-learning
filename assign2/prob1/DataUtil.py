@@ -15,23 +15,21 @@ class DataUtil:
         y_test = test_set['t']
         return x_train, y_train, x_test, y_test
 
-    def initialize_weights(type='normal', size=4):
-        if(type == 'normal'):
+    def initialize_weights(dist,size):
+        if(dist == 'normal'):
             return np.random.normal(size=size)
-        elif(type == 'uniform'):
+        elif(dist == 'uniform'):
             return np.random.uniform(size=size)
+        elif(dist == 'stdnormal'):
+            return np.random.standard_normal(size=size)
         else:
             return np.random.random(size=size)
 
     def accuracy(y_test, y_pred):
-        true_positive = np.sum(np.logical_and(
-            (y_pred == y_test), (y_pred == 1)))
-        true_negative = np.sum(np.logical_and(
-            (y_pred == y_test), (y_pred == 0)))
-        false_positive = np.sum(np.logical_and(
-            (y_pred != y_test), (y_pred == 1)))
-        false_negative = np.sum(np.logical_and(
-            (y_pred != y_test), (y_pred == 0)))
+        true_positive = np.sum(np.logical_and((y_pred == y_test), (y_pred == 1)))
+        true_negative = np.sum(np.logical_and((y_pred == y_test), (y_pred == 0)))
+        false_positive = np.sum(np.logical_and((y_pred != y_test), (y_pred == 1)))
+        false_negative = np.sum(np.logical_and((y_pred != y_test), (y_pred == 0)))
         print(true_positive, true_negative, false_positive, false_negative)
         precision_1 = true_positive/(true_positive+false_positive)
         precision_0 = true_negative/(true_negative+false_negative)
@@ -42,11 +40,21 @@ class DataUtil:
         accuracy = (true_positive+true_negative)/y_test.size
         return accuracy, f1_score_1, recall_1, precision_1, recall_0, precision_0, f1_score_0
 
-    def preprocess(dataset):
-        min = np.min(dataset)
-        print(min)
-        max = np.max(dataset)
-        print(max)
-        dataset = (dataset-min)/(max-min)
-        print(dataset)
+    def preprocess(scale,dataset):
+        if(scale=='min-max'):
+            min = np.min(dataset)
+            max = np.max(dataset)
+            dataset = (dataset-min)/(max-min)
+            
+        elif scale=='std':
+            mean = np.mean(dataset)
+            std = np.std(dataset)
+            dataset = (dataset-mean)/std
+        elif scale=='mean-norm':
+            mean = np.mean(dataset)
+            min = np.min(dataset)
+            max = np.max(dataset)
+            dataset = (dataset-mean)/(max-min)
+        elif scale=='None':
+            pass
         return dataset
