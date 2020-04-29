@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 class DataUtil:
@@ -22,6 +23,8 @@ class DataUtil:
             return np.random.uniform(size=size)
         elif(dist == 'stdnormal'):
             return np.random.standard_normal(size=size)
+        elif(dist == 'beta'):
+            return np.random.beta(size=size)
         else:
             return np.random.random(size=size)
 
@@ -30,7 +33,8 @@ class DataUtil:
         true_negative = np.sum(np.logical_and((y_pred == y_test), (y_pred == 0)))
         false_positive = np.sum(np.logical_and((y_pred != y_test), (y_pred == 1)))
         false_negative = np.sum(np.logical_and((y_pred != y_test), (y_pred == 0)))
-        print(true_positive, true_negative, false_positive, false_negative)
+        print("True Positive :\t",true_positive,"\nTrue Negative :\t", true_negative)
+        print("False Positive :\t",false_positive,"\nFalse Negative :\t",false_negative)
         precision_1 = true_positive/(true_positive+false_positive)
         precision_0 = true_negative/(true_negative+false_negative)
         recall_1 = true_positive/(true_positive+false_negative)
@@ -58,3 +62,24 @@ class DataUtil:
         elif scale=='None':
             pass
         return dataset
+
+    def plotData(error,iterations):
+        plt.plot(iterations, error, label = "line 1")
+        plt.xlabel('Iterations') 
+        plt.ylabel('Error') 
+        plt.title('Plot of Error of training set vs no.of Iterations') 
+        plt.legend() 
+        plt.show() 
+        
+    def plotData1(y_pred,y_test):
+        plt.xlabel('prob') 
+        plt.ylabel('Error')
+        ax=plt.subplot(111)
+        ax.set_xlim(1, 200)
+#         dim=np.arange(1,200,1);
+        ax.plot(y_pred,'ro',color='y',linewidth=2.0,alpha=0.6, label="Graph2")
+        ax.plot(y_test,'ro',color='b',linewidth=2.0, label="Graph1")
+#         plt.xticks(dim)
+        plt.grid()   
+        plt.show()    
+        plt.close()
