@@ -25,6 +25,8 @@ class DataUtil:
             return np.random.standard_normal(size=size)
         elif(dist == 'beta'):
             return np.random.beta(size=size)
+        elif(dist == 'randn'):
+            return np.random.randn(size)
         else:
             return np.random.random(size=size)
 
@@ -82,4 +84,9 @@ class DataUtil:
 #         plt.xticks(dim)
         plt.grid()   
         plt.show()    
+        plt.close()
+    
+    def plotData2(w):
+        ax = w.plot.bar(rot=0)
+        plt.show()
         plt.close()

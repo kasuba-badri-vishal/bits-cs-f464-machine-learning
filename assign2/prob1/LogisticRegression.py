@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-
+import time
 
 class LogisticRegression:
 
@@ -28,7 +28,8 @@ class LogisticRegression:
         error.append(loss)
         count=0
         print(loss)
-        while(loss1>=loss):
+        start = time.time()
+        while((time.time()-start)<=120):
             count +=1
             z = (x_train.dot(w))  # z = wT*x
             a = self.sigmoid_fun(z)
@@ -40,7 +41,7 @@ class LogisticRegression:
                 error.append(loss)
                 iterations.append(count)
             w = w - alpha*((a-y_train).dot(x_train))
-            if(count>=1000000000):
+            if(count>=100000):
                 break
         return w,error,iterations
 
@@ -51,6 +52,7 @@ class LogisticRegression:
         loss = reg_factor + self.error(y_train, a)
         w = w - alpha*((a-y_train).dot(x_train))
         w,error,iterations = self.grad_desc(x_train, y_train, w, beta, alpha, loss, reg)
+        print(w)
         z = (x_test.dot(w))
         a = self.sigmoid_fun(z)
-        return np.where(a > 0.5, 1, 0),error,iterations
+        return np.where(a > 0.5, 1, 0),error,iterations,w

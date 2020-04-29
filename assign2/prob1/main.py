@@ -16,7 +16,7 @@ def start_regression(dist,reg,alpha,scale):
     
     w = DataUtil.initialize_weights(dist, size=5) # dist = random,normal,uniform,stdnormal
     LR = LogisticRegression()
-    y_pred,error,iterations = LR.predict_data(x_test, x_train, w, y_train,reg, alpha=0.0005, beta=1e-2)
+    y_pred,error,iterations,w = LR.predict_data(x_test, x_train, w, y_train,reg, alpha=0.0005, beta=1e-2)
     """
     wR - without Regularization
     L1 - L1 Regularization
@@ -24,6 +24,7 @@ def start_regression(dist,reg,alpha,scale):
     """
     DataUtil.plotData(error,iterations)
     DataUtil.plotData1(y_pred,y_test)
+    DataUtil.plotData2(w)
     accuracy,f1_score_1,recall_1,precision_1,recall_0,precision_0,f1_score_0 = DataUtil.accuracy(y_test, y_pred)
     print("Accuracy is : {:.2f}".format(accuracy))
     print("Results   :\tPositive\tNegative")
